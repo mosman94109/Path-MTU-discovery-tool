@@ -1,5 +1,6 @@
 Usage: $0 host
 (e.g. ./find_pmtu.py example.com)
+
 help: $0 --help
 
 I wrote this script only as an exercise; you should use the "socket" library
